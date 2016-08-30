@@ -1,13 +1,27 @@
 # Moduel2_Dluzak
 <!DOCTYPE html>
 <html>
+
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Simple HTML5 Page</title>
+	<meta charset="utf-8">
+ 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Simple HTML5 Page</title>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 </head>
 <body>
-  <h1>Konichiwa, Santa Losa...</h1>
+    <div class="row">
+	<div class="col-lg-6">
+
+		<h1>Konichiwa, Santa Losa...</h1>
+	</div>
+    <div class="col-lg-6">
+    	
+    	<h1>Hello, Santa Rosa...</h1>
+    
+    </div>
+	</div>
+	
+	<script type="js/jquery-3.1.0.min.js"></script>
+	<script type="js/bootstrap.min.js"></script>
 </body>
 </html>
